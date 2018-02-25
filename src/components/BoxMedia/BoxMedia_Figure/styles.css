@@ -1,0 +1,13 @@
+.boxmedia--figure {
+    margin: 0;
+    overflow: hidden
+}
+    .boxmedia--figure img {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: .75s transform;
+    }
+        a:hover .boxmedia--figure img {
+            transform: scale(1.1);
+        }

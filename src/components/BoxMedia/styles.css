@@ -1,0 +1,12 @@
+.boxmedia--link {
+    display: grid;
+    max-width: 30rem;
+    margin: 2rem auto;
+    border-radius: .5rem;
+    overflow: hidden;
+    border: 1px solid #d9dfe5;
+    background-color: white;
+    text-decoration: none;
+    color: #777;
+    font-family: Roboto, sans-serif;
+}
